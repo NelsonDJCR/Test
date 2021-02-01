@@ -1,0 +1,50 @@
+-------------------------------------------------------
+¿Qué es ajax?                                          
+- Ajax sirve para hacer peticiones                     
+  al servidor sin necesidad de                         
+  regargar la página y va de la                        
+  mano con JQuery.                                     
+-------------------------------------------------------
+¿Qué es JQuery?                                        
+ - JQuery es una libreria de JavaScrip                  
+   hace más eficiente y el desarrollo web,             
+   hace que una página sea más interactiva             
+   y su curva de aprendisaje es facil                  
+------------------------------------------------------- 
+¿Qué es Json?                                          
+- Es un formato de intercambio de datos                
+  que funciona bajo JavaScrip personalmente             
+  lo he usado muy pocas veces para desarrollar
+  pero entiendo su lógica
+-------------------------------------------------------
+¿Qué es MySqli?
+- Es un sistema para gestionar base de datos,
+  para trabajar con MySql requiere un servidor
+  apache
+-------------------------------------------------------
+¿Qué es INNER JOIN?
+- Es una sentencia SQL para obtener datos y 
+  combinarlos de dos o más tablas
+-------------------------------------------------------
+¿Qué es LEFT JOIN?
+- Es una sentencia SQL para obtener datos de 
+  dos tablas, en este caso el resultado devuelve
+  todos los registros de la tabla izquierda y solo los
+  que coinciden con la tabla derecha
+-------------------------------------------------------
+¿Qué hace la función STR_PAD?
+- La función STR_PAD sirve para rellenar una palabra 
+  o candena de texto, requiere de 3 parámetros 
+  la cadena de texto o palabra, el valor al que se quiere
+  rellenar y el carácter con el que se rellenará la cadena
+
+  str_pad("Nelson",10,"*");
+  echo Nelson****
+-------------------------------------------------------
+¿Para qué sirve CURL?
+- Es una herramienta de linea de comandos 
+  que permite trabajar con direcciones url, 
+  se usa más que todo para el desarrollo del backend
+  como testear las direcciones de un servidor.
+-------------------------------------------------------
+
